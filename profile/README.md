@@ -5,7 +5,7 @@ lakehouse, data-quality, automation, and AI-assisted workflow projects.
 
 ## Lead Engineer
 
-[Amy (Brian) Goodell](https://github.com/amy-brian-goodell)
+[Amy Skye Goodell](https://github.com/amy-skye-goodell)
 
 ## Project Areas
 
