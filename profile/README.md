@@ -1,4 +1,4 @@
-# Triangle Data Works
+# Amy Skye Studios
 
 Independent data-engineering, analytics-engineering, cloud,
 lakehouse, data-quality, automation, and AI-assisted workflow projects.
